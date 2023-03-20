@@ -1,0 +1,132 @@
+Modelo: asian
+Raça: asiatico - PSNR: 33.47975516416401
+
+Modelo: black
+Raça: asiatico - PSNR: 34.53841544964
+
+Modelo: indian
+Raça: asiatico - PSNR: 35.28199702895317
+
+Modelo: latino
+Raça: asiatico - PSNR: 32.13591420374979
+
+Modelo: middle
+Raça: asiatico - PSNR: 31.621664296200787
+
+Modelo: mixed
+Raça: asiatico - PSNR: 32.628789497441716
+
+Modelo: white
+Raça: asiatico - PSNR: 33.031965271382504
+
+--------------------------------------------------------
+Modelo: asian
+Raça: branco - PSNR: 27.911990442363894
+
+Modelo: black
+Raça: branco - PSNR: 30.326375538056336
+
+Modelo: indian
+Raça: branco - PSNR: 31.217779795696554
+
+Modelo: latino
+Raça: branco - PSNR: 29.48691684157391
+
+Modelo: middle
+Raça: branco - PSNR: 28.400102861473144
+
+Modelo: mixed
+Raça: branco - PSNR: 29.895871063796754
+
+Modelo: white
+Raça: branco - PSNR: 30.051203240177156
+
+--------------------------------------------------------
+Modelo: asian
+Raça: indiano - PSNR: 33.3487362530697
+
+Modelo: black
+Raça: indiano - PSNR: 34.10518936903722
+
+Modelo: indian
+Raça: indiano - PSNR: 36.20700553774723
+
+Modelo: latino
+Raça: indiano - PSNR: 34.73696093306153
+
+Modelo: middle
+Raça: indiano - PSNR: 33.16449518712683
+
+Modelo: mixed
+Raça: indiano - PSNR: 34.393899004586174
+
+Modelo: white
+Raça: indiano - PSNR: 36.292672407454596
+
+--------------------------------------------------------
+Modelo: asian
+Raça: latino - PSNR: 32.682806859820765
+
+Modelo: black
+Raça: latino - PSNR: 34.55183742369233
+
+Modelo: indian
+Raça: latino - PSNR: 34.09584141484496
+
+Modelo: latino
+Raça: latino - PSNR: 31.225014691352683
+
+Modelo: middle
+Raça: latino - PSNR: 30.458120196655077
+
+Modelo: mixed
+Raça: latino - PSNR: 31.456197610857153
+
+Modelo: white
+Raça: latino - PSNR: 31.79503906686992
+
+--------------------------------------------------------
+Modelo: asian
+Raça: negro - PSNR: 25.489043072048606
+
+Modelo: black
+Raça: negro - PSNR: 28.608564116620784
+
+Modelo: indian
+Raça: negro - PSNR: 30.19878930822879
+
+Modelo: latino
+Raça: negro - PSNR: 30.249422888471244
+
+Modelo: middle
+Raça: negro - PSNR: 29.04662554082226
+
+Modelo: mixed
+Raça: negro - PSNR: 30.360106300676684
+
+Modelo: white
+Raça: negro - PSNR: 30.749812204903865
+
+--------------------------------------------------------
+Modelo: asian
+Raça: oriente - PSNR: 31.930425020844734
+
+Modelo: black
+Raça: oriente - PSNR: 33.205962541431084
+
+Modelo: indian
+Raça: oriente - PSNR: 34.54691799914222
+
+Modelo: latino
+Raça: oriente - PSNR: 33.151513802944386
+
+Modelo: middle
+Raça: oriente - PSNR: 32.04179850064106
+
+Modelo: mixed
+Raça: oriente - PSNR: 33.17951453695643
+
+Modelo: white
+Raça: oriente - PSNR: 34.40300065670789
+
+--------------------------------------------------------
